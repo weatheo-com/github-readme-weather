@@ -13,14 +13,14 @@ Line badge, light and dark:
 
 Card badge (495x120), light and dark:
 
-[![Weather in London](https://weatheo.com/badge/gb/england/london.svg?style=card&lang=en)](https://weatheo.com/en/gb/england/london)
-[![Weather in London, dark theme](https://weatheo.com/badge/gb/england/london.svg?style=card&theme=dark&lang=en)](https://weatheo.com/en/gb/england/london)
+[![Weather in London](https://weatheo.com/badge/gb/london-city-of/london.svg?style=card&lang=en)](https://weatheo.com/en/gb/london-city-of/london)
+[![Weather in London, dark theme](https://weatheo.com/badge/gb/london-city-of/london.svg?style=card&theme=dark&lang=en)](https://weatheo.com/en/gb/london-city-of/london)
 
 ## Find your city
 
 1. Open [weatheo.com](https://weatheo.com) and search for your city.
-2. On the city page, copy the part of the address after the language. For `https://weatheo.com/en/gb/england/london` it is `gb/england/london`.
-3. Put it in the badge address: `https://weatheo.com/badge/gb/england/london.svg`.
+2. On the city page, copy the part of the address after the language. For `https://weatheo.com/en/gb/london-city-of/london` it is `gb/london-city-of/london`.
+3. Put it in the badge address: `https://weatheo.com/badge/gb/london-city-of/london.svg`.
 
 You can also use the search API: `https://weatheo.com/api/v1/search?q=gien`. The `key` field of each entry in `results` is the path to use (for example `fr/centre-val-de-loire/gien`).
 
